@@ -1,6 +1,6 @@
 # Mohammed Kayal
 
-Aspiring Cloud Engineer with hands-on AWS projects in serverless architectures, containers, networking, and automation.
+Cloud Engineer with hands-on AWS projects in serverless architectures, containers, networking, and automation.
 
 ## Focus
 - AWS Cloud
