@@ -21,6 +21,3 @@ Aspiring Cloud Engineer with hands-on AWS projects in serverless architectures, 
 - Adding architecture diagrams
 - Expanding source code and CI workflows
 
-## Connect
-- LinkedIn: [add your LinkedIn link here]
-- Location: Hannover, Germany
