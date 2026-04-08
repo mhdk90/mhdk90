@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mohammed Kayal
 
-<!--
-**mhdk90/mhdk90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Engineer with hands-on AWS projects in serverless architectures, containers, networking, and automation.
 
-Here are some ideas to get you started:
+## Focus
+- AWS Cloud
+- DevOps
+- Python
+- Docker
+- Kubernetes
+- Infrastructure as Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Serverless Order Processing on AWS
+- Multi-Tier Web Application on AWS
+- Hybrid Container Migration to AWS
+- AWS Governance and Multi-Account Design
+
+## Currently Working On
+- Improving project documentation
+- Adding architecture diagrams
+- Expanding source code and CI workflows
+
+## Connect
+- LinkedIn: [add your LinkedIn link here]
+- Location: Hannover, Germany
